@@ -10,6 +10,7 @@ const client = new ApolloClient({
   cache: new InMemoryCache()
 });
 
+// Test
 
 ReactDOM.render(
   <React.StrictMode>
